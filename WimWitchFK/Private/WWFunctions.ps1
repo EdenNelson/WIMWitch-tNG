@@ -5366,6 +5366,7 @@ Function Get-WinVersionNumber {
 
         # Add all other specific Windows 11 build checks here...
         '10\.0\.22621\.2134' { $buildnum = '22H2' }
+        '10\.0\.22621\.2715' { $buildnum = '22H2' }
         '10\.0\.22000\.2652' { $buildnum = '21H2' }
         # Continue for all provided Windows 11 builds
 

@@ -1,10 +1,10 @@
 # WimWitch-tNG
 
-![WIMWITCHFK](WimWitch-tNG.png)
+![WIMWITCH-tNG](WIMWitch-tNG.png)
 
-# Credits WimWitch by @TheNotoriusDRR
-# Credits WimWitchFK by @alaurie
-# Credits WimWitchFK-24H2 by @camahoe
+- Credits WimWitch by @TheNotoriusDRR
+- Credits WimWitchFK by @alaurie
+- Credits WimWitchFK-24H2 by @camahoe
 
 # Changelog
 
